@@ -12,4 +12,6 @@ cc1
 cc2
 a
 a
+a
+abcd
 
